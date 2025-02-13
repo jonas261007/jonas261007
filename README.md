@@ -2,7 +2,7 @@
 
 Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados ao meu aprendizado e prática em desenvolvimento de software. Tenho experiência com várias tecnologias, incluindo **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS** e mais. Fique à vontade para explorar, dar sugestões ou contribuir!
 
-![Gif de animação legal]([https//media.g:iphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/5aSs.gif))  
+![Gif de animação legal](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZ2aXl5dHRkd2gwNXYyOHpxcHk5eW9hZHA5NzE4NmQwZGNpeDNrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZDCLEjA7mA266BSggO/giphy.gif)  
 
 ## 🚀 Tecnologias que estou aprendendo e utilizando
 
