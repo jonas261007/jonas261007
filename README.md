@@ -2,6 +2,8 @@
 
 Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados ao meu aprendizado e prática em desenvolvimento de software. Tenho experiência com várias tecnologias, incluindo **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS** e mais. Fique à vontade para explorar, dar sugestões ou contribuir!
 
+![Gif de animação legal](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)  
+
 ## 🚀 Tecnologias que estou aprendendo e utilizando
 
 - **JavaScript / TypeScript**
@@ -11,7 +13,7 @@ Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados a
 - **Git e GitHub**
 - **Node.js**
 - **Firebase** (Autenticação e Banco de Dados)
-- **APIs e consumo de dados**
+- **APIs e consumo de dados)
 
 ## 🛠️ Ferramentas e Frameworks
 
@@ -22,6 +24,8 @@ Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados a
 - **Node.js** - Para backend e execução de scripts
 - **Framer Motion** - Para animações
 - **ESLint e Prettier** - Para manter o código limpo e bem formatado
+
+![Gif de animação de código](https://media.giphy.com/media/TL0O71R1Oxgk8/giphy.gif)
 
 ## 📚 Projetos
 
@@ -39,3 +43,5 @@ Aqui estão alguns dos meus projetos mais recentes:
 ---
 
 Sinta-se à vontade para contribuir, fazer sugestões ou apenas explorar! 🙂
+
+![Animação interativa do meu projeto](https://media.giphy.com/media/3o7qDLlSazL8g5z3Xu/giphy.gif)
