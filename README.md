@@ -2,7 +2,7 @@
 
 Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados ao meu aprendizado e prática em desenvolvimento de software. Tenho experiência com várias tecnologias, incluindo **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS** e mais. Fique à vontade para explorar, dar sugestões ou contribuir!
 
-![Gif de animação legal]([https://i.pinimg.com/736x/ba/2f/7f/ba2f7fbe145584d60e0958b46338bf0e.jpg](https://pngtree.com/freepng/webpage-error-pop-up-window-retro-pixel-texture_6567845.html))  
+![Gif de animação legal]()  
 
 ## 🚀 Tecnologias que estou aprendendo e utilizando
 
@@ -25,7 +25,7 @@ Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados a
 - **Framer Motion** - Para animações
 - **ESLint e Prettier** - Para manter o código limpo e bem formatado
 
-![Gif de animação de código](https://media.giphy.com/media/TL0O71R1Oxgk8/giphy.gif)
+![Gif de animação de código]()
 
 ## 📚 Projetos
 
@@ -44,4 +44,4 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 Sinta-se à vontade para contribuir, fazer sugestões ou apenas explorar! 🙂
 
-![Animação interativa do meu projeto](https://media.giphy.com/media/3o7qDLlSazL8g5z3Xu/giphy.gif)
+![Animação interativa do meu projeto]()
