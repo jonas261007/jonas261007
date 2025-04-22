@@ -2,7 +2,7 @@
 
 Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados ao meu aprendizado e prática em desenvolvimento de software. Tenho experiência com várias tecnologias, incluindo **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS** e mais. Fique à vontade para explorar, dar sugestões ou contribuir!
 
-![Gif de animação legal]([[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZ2aXl5dHRkd2gwNXYyOHpxcHk5eW9hZHA5NzE4NmQwZGNpeDNrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZDCLEjA7mA266BSggO/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAxZDI3Z3FqcTJiYzg5Y242Nm40cjZqdjZpZmN3bW82MjM1bWJ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZvbzN0cDZ2dXd4dGN0M3U4Zzh3dGo4bW1hMjJxdHV5MHF6aXkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FNfcWhlz0GTkzcnZWh/giphy.gif))  
+![Gif de animação legal](https://i.pinimg.com/736x/ba/2f/7f/ba2f7fbe145584d60e0958b46338bf0e.jpg)  
 
 ## 🚀 Tecnologias que estou aprendendo e utilizando
 
