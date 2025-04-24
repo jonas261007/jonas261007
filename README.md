@@ -13,7 +13,7 @@ Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados a
 - **Git e GitHub**
 - **Node.js**
 - **Firebase** (Autenticação e Banco de Dados)
-- **APIs e consumo de dados)
+- **APIs** e consumo de dados)
 
 ## 🛠️ Ferramentas e Frameworks
 
