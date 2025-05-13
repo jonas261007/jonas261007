@@ -39,5 +39,3 @@ Aqui estão alguns dos meus projetos mais recentes:
 ---
 
 Sinta-se à vontade para contribuir, fazer sugestões ou apenas explorar! 🙂
-
-![Animação interativa do meu projeto]()
