@@ -1,41 +1,45 @@
-# Bem-vindo ao meu GitHub!
-
-Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados ao meu aprendizado e prática em desenvolvimento de software. Tenho experiência com várias tecnologias, incluindo **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS** e mais. Fique à vontade para explorar, dar sugestões ou contribuir!
-
-## 🚀 Tecnologias que estou aprendendo e utilizando
-
-- **JavaScript / TypeScript**
-- **React**
-- **Next.js**
-- **Tailwind CSS**
-- **Git e GitHub**
-- **Node.js**
-- **Firebase** (Autenticação e Banco de Dados)
-- **APIs** e consumo de dados)
-
-## 🛠️ Ferramentas e Frameworks
-
-- **VS Code** - Meu editor favorito
-- **Git** - Controle de versão
-- **Postman** - Teste de APIs
-- **Figma** - Design de interfaces
-- **Node.js** - Para backend e execução de scripts
-- **Framer Motion** - Para animações
-- **ESLint e Prettier** - Para manter o código limpo e bem formatado
-
-## 📚 Projetos
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-- **[Calculadora de IMC](https://github.com/jonas261007/calculadora-de-imc)** - Um projeto de calculadora de IMC feito com React e TypeScript.
-- **[Projeto de E-commerce](https://github.com/jonas261007/projeto-e-commerce)** - Um site de loja de sobremesas com carrinho de compras e integração com APIs.
-- **[Aplicação de Busca de Endereço](https://github.com/jonas261007/busca-de-endereco)** - Uma aplicação que consome a API Zippopotam para buscar endereços com base no CEP.
-
-## 💬 Vamos nos conectar
-
-- **LinkedIn**: [https://www.linkedin.com/in/jonas261007](https://www.linkedin.com/in/jonas261007)
-- **Twitter**: [@jonas261007](https://twitter.com/jonas261007)
+Here's your text translated into English:
 
 ---
 
-Sinta-se à vontade para contribuir, fazer sugestões ou apenas explorar! 🙂
+# Welcome to my GitHub!
+
+Hello! I'm **Jonas**, and here you will find various projects related to my learning and practice in software development. I have experience with several technologies, including **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, and more. Feel free to explore, suggest, or contribute!
+
+## 🚀 Technologies I'm Learning and Using
+
+* **JavaScript / TypeScript**
+* **React**
+* **Next.js**
+* **Tailwind CSS**
+* **Git and GitHub**
+* **Node.js**
+* **Firebase** (Authentication and Database)
+* **APIs** and data consumption
+
+## 🛠️ Tools and Frameworks
+
+* **VS Code** - My favorite editor
+* **Git** - Version control
+* **Postman** - API testing
+* **Figma** - UI design
+* **Node.js** - For backend and running scripts
+* **Framer Motion** - For animations
+* **ESLint and Prettier** - To keep the code clean and well-formatted
+
+## 📚 Projects
+
+Here are some of my latest projects:
+
+* **[BMI Calculator](https://github.com/jonas261007/calculadora-de-imc)** - A BMI calculator project made with React and TypeScript.
+* **[E-commerce Project](https://github.com/jonas261007/projeto-e-commerce)** - A dessert store website with a shopping cart and API integration.
+* **[Address Search Application](https://github.com/jonas261007/busca-de-endereco)** - An application that consumes the Zippopotam API to search for addresses based on the ZIP code.
+
+## 💬 Let's Connect
+
+* **LinkedIn**: [https://www.linkedin.com/in/jonas261007](https://www.linkedin.com/in/jonas261007)
+* **Twitter**: [@jonas261007](https://twitter.com/jonas261007)
+
+---
+
+Feel free to contribute, suggest, or just explore! 🙂
