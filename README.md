@@ -1,7 +1,3 @@
-Here's your text translated into English:
-
----
-
 # Welcome to my GitHub!
 
 Hello! I'm **Jonas**, and here you will find various projects related to my learning and practice in software development. I have experience with several technologies, including **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, and more. Feel free to explore, suggest, or contribute!
