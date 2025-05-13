@@ -2,8 +2,6 @@
 
 Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados ao meu aprendizado e prática em desenvolvimento de software. Tenho experiência com várias tecnologias, incluindo **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS** e mais. Fique à vontade para explorar, dar sugestões ou contribuir!
 
-![Gif de animação legal]()  
-
 ## 🚀 Tecnologias que estou aprendendo e utilizando
 
 - **JavaScript / TypeScript**
@@ -24,8 +22,6 @@ Olá! Eu sou **Jonas**, e aqui você encontrará vários projetos relacionados a
 - **Node.js** - Para backend e execução de scripts
 - **Framer Motion** - Para animações
 - **ESLint e Prettier** - Para manter o código limpo e bem formatado
-
-![Gif de animação de código]()
 
 ## 📚 Projetos
 
